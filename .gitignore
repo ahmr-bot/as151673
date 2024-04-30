@@ -1,0 +1,10 @@
+/bgp/*
+/ospf/*
+/static/*
+
+local.conf
+
+!/ospf/myospf.conf
+
+!**/_*
+!**/.*
